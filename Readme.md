@@ -11,4 +11,5 @@ Aby ustawić język polski w programie, wybierz menu `Options -> Translations ->
 
 ## Changelog
 
-**25.04.2018** - Translation updated for CudaText ver. 1.51.0.0
+* **05.04.2019** - Translation updated for CudaText ver. 1.77.6.0
+* **25.04.2018** - Translation updated for CudaText ver. 1.51.0.0
