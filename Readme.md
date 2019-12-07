@@ -1,4 +1,4 @@
-# Polish translation for CudaText / Polskie tłumaczenie dla CudaText
+﻿# Polish translation for CudaText / Polskie tłumaczenie dla CudaText
 
 Polish language file for the [CudaText](https://github.com/Alexey-T/CudaText) editor.
 
@@ -11,5 +11,6 @@ Aby ustawić język polski w programie, wybierz menu `Options -> Translations ->
 
 ## Changelog
 
+* **07.12.2019** - Translation updated for CudaText ver. 1.90.1.0
 * **05.04.2019** - Translation updated for CudaText ver. 1.77.6.0
 * **25.04.2018** - Translation updated for CudaText ver. 1.51.0.0
