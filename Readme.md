@@ -4,9 +4,9 @@ Polish language file for the [CudaText](https://github.com/Alexey-T/CudaText) ed
 
 ## Install / Instalacja
 
-Download **translation.pl_PL.zip** file, run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Translations -> pl_PL`.
+Download **translation.pl_PL.zip** file (from Releases page), run the CudaText editor, drop this file on the main window and confirm installation. Select menu `Options -> Translations -> pl_PL`.
 
-Pobierz plik **translation.pl_PL.zip**, uruchom program CudaText, przeciągnij i upuść pobrany plik na okno programu i potwierdź instalację.
+Pobierz plik **translation.pl_PL.zip** (ze strony Releases), uruchom program CudaText, przeciągnij i upuść pobrany plik na okno programu i potwierdź instalację.
 Aby ustawić język polski w programie, wybierz menu `Options -> Translations -> pl_PL`.
 
 ## Changelog
